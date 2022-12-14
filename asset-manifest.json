@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5adac35b.css",
+    "main.js": "/static/js/main.3efb8975.js",
+    "static/media/ilustracion-info-mascota.png": "/static/media/ilustracion-info-mascota.d398a4cbe56f02b7f2a5.png",
+    "static/media/ilustracion-home.png": "/static/media/ilustracion-home.faadd506a0689ac79bf7.png",
+    "static/media/Construyendo.png": "/static/media/Construyendo.02af60145dfd4bd7879e.png",
+    "static/media/fotobuscador-landing.png": "/static/media/fotobuscador-landing.43ea3794150199050384.png",
+    "static/media/perros.jpg": "/static/media/perros.dbbcb8c03facbd16660f.jpg",
+    "index.html": "/index.html",
+    "main.5adac35b.css.map": "/static/css/main.5adac35b.css.map",
+    "main.3efb8975.js.map": "/static/js/main.3efb8975.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5adac35b.css",
+    "static/js/main.3efb8975.js"
+  ]
+}
